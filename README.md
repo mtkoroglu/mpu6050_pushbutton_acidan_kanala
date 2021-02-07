@@ -7,6 +7,6 @@ Daha önceden potansiyometreye ayarlı direnç dendiğinden bahsetmiştik. Bu de
 
 görmüştük. Burada listelenen özellikleri Şekil 1'de görebilirsiniz.
 
-<img src="potansiyometre.jpg" alt="Arduino ile potansiyometre arasındaki bağlantılar" style="zoom: 10%;" />
+<img src="potansiyometre.jpg" alt="Arduino ile potansiyometre arasındaki bağlantılar" style="zoom: 10%"/>
 
 *Şekil 1: Arduino-potansiyometre bağlantıları.*
