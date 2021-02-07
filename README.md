@@ -18,5 +18,7 @@ görmüştük. Bir potansiyometreyi ve yukarıda listelenen Arduino bağlantıla
 
 *Şekil 2: İki eksenli joystick ([2]'in izni ile). VRx ve VRy olarak isimlendirilen çıkışlar Arduino'nun analog girişlerine (e.g., A0 ve A1) bağlanmaktadır.*
 
-[1] https://www.direnc.net/22k-potansiyometre-potansiyometre-spike-55641-56-B.jpg
-[2] https://market.projehocam.com/wp-content/uploads/joystick.jpg
+## Kaynaklar
+1. https://www.direnc.net/22k-potansiyometre-potansiyometre-spike-55641-56-B.jpg
+
+2. https://market.projehocam.com/wp-content/uploads/joystick.jpg
