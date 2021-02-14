@@ -1,4 +1,4 @@
-# H$\hat{a}$reket Sensörü ile Kanal Sinyalleri Oluşturmak
+# Hareket Sensörü ile Kanal Sinyalleri Oluşturmak
 ## Potansiyometre
 Potansiyometreye ayarlı direnç dendiğinden daha önce bahsetmiştik. Bu devre elemanının;
 * Üç bacağı olduğunu, 
